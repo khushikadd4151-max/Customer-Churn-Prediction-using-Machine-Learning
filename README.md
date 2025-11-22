@@ -1,1 +1,2 @@
 # Customer-Churn-Prediction-using-Machine-Learning
+Designed and deployed an end-to-end churn prediction pipeline on 7,043 customer records, achieving 79.18% accuracy, 62.3% recall, and 83.67% ROC-AUC, improving churn detection by 15% over baseline. Engineered 10+ key features (tenure groups, service count, payment methods), applied SMOTE to balance data, and built a Flask API for real-time predictions, enabling proactive retention strategies and potential 10–15% churn reduction.
